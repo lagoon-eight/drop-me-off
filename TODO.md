@@ -1,5 +1,4 @@
 # Ongoing Backlog
----
 Instead of using a complicated tool such as JIRA, I have decided to just use a simple TODO list for this project.
 
 ## Immediate Items 
@@ -23,3 +22,7 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 - [ ] Train the model using real images
 - [ ] Test the model using real images
 
+## Long Term Items
+- [ ] Make car go on a longer track
+- [ ] Add testing automation to the entire process
+- [ ] Add automatic local deployment
