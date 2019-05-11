@@ -25,3 +25,7 @@ There is also a CVS file which contains the following data:
 There are about 14 frames per second.
 
 For the first try I will use only center images and see what happens.
+
+---
+The easiest way to train the model is to use a Docker container. Installing Keras, Tensorflow and OpenCV and all the right version of all the libraries takes time, so it's better to Dockarize the result.
+
