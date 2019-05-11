@@ -8,8 +8,8 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 - [ ] Record steering angle related to each frame (left/right/none for now)
 
 ### Reproduce the Udacity Project on Mac
-- [ ] Find the simulator
-- [ ] Record lap forward
+- [x] Find the simulator
+- [x] Record lap forward
 - [ ] Run the pictures through Ubuntu Tensorflow
 - [ ] Make car self driving around track
 
