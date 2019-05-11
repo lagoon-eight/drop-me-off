@@ -19,7 +19,8 @@ There is also a CVS file which contains the following data:
 |Center Image | Left Image | Right Image | Steering Angle | Throttle | Break | Speed|
 |-------------|------------|-------------|---------------:|---------:|------:|-----:|
 |IMG/center...|IMG/left... |IMG/right... |0               |0.23434   |   0   |   0  | 
-|IMG/center...|IMG/left... |IMG/right... |0.03            |0.23434   |   0   |   0  |
+|IMG/center...|IMG/left... |IMG/right... |0.03            |0.23434   |   0   |   1  |
+|IMG/center...|IMG/left... |IMG/right... |0.06            |0.54554   |   0   |   2  |
 
 There are about 14 frames per second.
 
