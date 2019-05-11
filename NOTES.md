@@ -15,6 +15,7 @@ https://github.com/papiot/CarND-Behavioral-Cloning
 Once you record a few laps of the track, you end up with a folder which contain images take from three different cameras. All of them are on the hood of the car, but one is centered, and the other two are left and right respectivelly.
 
 There is also a CVS file which contains the following data:
+
 |Center Image | Left Image | Right Image | Steering Angle | Throttle | Break | Speed|
 |-------------|------------|-------------|---------------:|---------:|------:|-----:|
 |IMG/center...|IMG/left... |IMG/right... |0               |0.23434   |   0   |   0  | 
