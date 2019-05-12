@@ -29,3 +29,8 @@ For the first try I will use only center images and see what happens.
 ---
 The easiest way to train the model is to use a Docker container. Installing Keras, Tensorflow and OpenCV and all the right version of all the libraries takes time, so it's better to Dockarize the result.
 
+--
+As part of the tutorials on Udacity, there is a model that doesn't perform that well, but still goes around the track. 
+
+I want to conduct an experiment to see if that is good enough for this project.
+

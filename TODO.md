@@ -10,8 +10,8 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 ### Reproduce the Udacity Project on Mac
 - [x] Find the simulator
 - [x] Record lap forward
-- [ ] Run the pictures through Ubuntu Tensorflow
-- [ ] Make car self driving around track
+- [x] Run the pictures through Ubuntu Tensorflow
+- [x] Make car self driving around track
 
 ## Medium Term Items
 - [ ] Fine tune the steering angle so it can do intervals
