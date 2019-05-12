@@ -2,8 +2,8 @@
 Instead of using a complicated tool such as JIRA, I have decided to just use a simple TODO list for this project.
 
 ## Immediate Items 
-- [ ] Reproduce the Udacity Project on Mac (subtasks lower)
-- [ ] Create a proper environment for Tensorflow on Ubuntu Machine
+- [x] Reproduce the Udacity Project on Mac (subtasks lower)
+- [x] Create a proper environment for Tensorflow on Ubuntu Machine
 - [ ] Record files from Webcam and store them locally
 - [ ] Record steering angle related to each frame (left/right/none for now)
 
