@@ -34,3 +34,9 @@ As part of the tutorials on Udacity, there is a model that doesn't perform that 
 
 I want to conduct an experiment to see if that is good enough for this project.
 
+--
+
+Found a good solution to record the video off the USB camera. 
+
+record_stream.sh will record a video using ffmpeg while also allowing me to view the stream on the web
+

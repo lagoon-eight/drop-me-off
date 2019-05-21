@@ -4,7 +4,8 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 ## Immediate Items 
 - [x] Reproduce the Udacity Project on Mac (subtasks lower)
 - [x] Create a proper environment for Tensorflow on Ubuntu Machine
-- [ ] Record files from Webcam and store them locally
+- [x] Record Video from usb cam
+- [x] Record files from Webcam and store them locally
 - [ ] Record steering angle related to each frame (left/right/none for now)
 
 ### Reproduce the Udacity Project on Mac
