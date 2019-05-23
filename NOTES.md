@@ -40,3 +40,8 @@ Found a good solution to record the video off the USB camera.
 
 record_stream.sh will record a video using ffmpeg while also allowing me to view the stream on the web
 
+--
+Found an excellent article that shows how to capture images and steering angle at the same time
+
+https://towardsdatascience.com/deeppicar-part-5-lane-following-via-deep-learning-d93acdce6110
+
