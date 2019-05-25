@@ -9,6 +9,7 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 - [ ] Record steering angle related to each frame (left/right/none for now)
 - [ ] Implement message communication with MQTT (python client to turn wheels)
 - [ ] React Front End to use the MQTT server to control the car
+- [ ] Dockarize and automate the entire process
 
 ### Reproduce the Udacity Project on Mac
 - [x] Find the simulator
