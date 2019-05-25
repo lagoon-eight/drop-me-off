@@ -7,6 +7,8 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 - [x] Record Video from usb cam
 - [x] Record files from Webcam and store them locally
 - [ ] Record steering angle related to each frame (left/right/none for now)
+- [ ] Implement message communication with MQTT (python client to turn wheels)
+- [ ] React Front End to use the MQTT server to control the car
 
 ### Reproduce the Udacity Project on Mac
 - [x] Find the simulator
@@ -15,7 +17,7 @@ Instead of using a complicated tool such as JIRA, I have decided to just use a s
 - [x] Make car self driving around track
 
 ## Medium Term Items
-- [ ] Fine tune the steering angle so it can do intervals
+- [x] Fine tune the steering angle so it can do intervals
 - [ ] Create architecture diagram for Javascript system
 - [ ] Create Nodejs client that can control the car
 - [ ] Create ReactJS client that can be used as an interface
